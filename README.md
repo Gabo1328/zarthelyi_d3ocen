@@ -5,4 +5,4 @@ Tussai Gábor - D3OCEN
 
 Egyszerűbb Snake játék megvalósítása pontszámmal
 
-Használt modulok: -thinkter -random
+Használt modulok: -tkinter -random
